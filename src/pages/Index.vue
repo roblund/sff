@@ -35,12 +35,11 @@
     <h2>Come and join us</h2>
     <p>
       It’s easy to get involved. Invite your family and friends to join you on
-      April 6th to collect food at one of ten grocery stores in our area. Your
-      contribution will support over 1,200 local families that receive emergency
-      food boxes each month, not to mention specific programs like KidsPack and
-      Kids’ Pantries, which helps prevent hunger for our area school children.
-      This year’s Spring for Food Drive has a companion event: Childhood Hunger
-      Awareness Week. This means we’re going to do it a little differently.
+      April 18th to collect food at one of ten grocery stores in our area. Your
+      contribution will support almost 1,200 local families that receive
+      emergency food boxes each month, not to mention specific programs like
+      KidsPack and Kids’ Pantries, which helps prevent hunger for our area
+      school children.
     </p>
 
     <p>
@@ -125,7 +124,7 @@
       <div>
         <p>
           <strong>GVFB Mission:</strong> To improve food security throughout
-          Gallatin Valley and Southwest Montana
+          Southwest Montana
         </p>
         <p>
           HRDC – Food and Nutrition Programs include
@@ -152,17 +151,17 @@
         </p>
         <ul>
           <li>
-            During the 2017-2018 fiscal year, the Gallatin Valley Food Bank
-            distributed 2,002,170 pounds of food.
+            During the 2018-2019 fiscal year, the Gallatin Valley Food Bank
+            distributed 2,033,190 pounds of food.
           </li>
           <li>
-            The Gallatin Valley Food Bank serves an average 1240 households
-            (roughly 3,228 individuals) every month through the Emergency Food
+            The Gallatin Valley Food Bank serves an average 1,195 households
+            (roughly 3,214 individuals) every month through the Emergency Food
             Box Program at our Bozeman location and our satellite service in
             Belgrade.
           </li>
           <li>
-            On average, 7,435 pounds (3.71 tons) of food is distributed to
+            On average, 7,606 pounds (3.8 tons) of food is distributed to
             families every day.
           </li>
           <li>
@@ -170,7 +169,7 @@
             at least one child, and 30% are under 18.
           </li>
           <li>
-            Out of that total, 137,097 pounds of food went to other area
+            Out of that total, 208,437 pounds of food went to other area
             non-profits, the Fork and Spoon, CSFP and KidsPack. This took an
             extraordinary effort by hundreds of volunteers and dedicated staff.
           </li>
