@@ -118,6 +118,16 @@
       </p>
     </div>
 
+    <h2>Fight Childhood Hunger Week</h2>
+    <p>
+      We are coordinating our upcoming annual Spring Food drive events in
+      conjunction with Fight Childhood Hunger Week,
+      <strong>April 13th - 19th</strong>. Fight Childhood Hunger Week raises
+      awareness of the issue of childhood hunger while helping schools and
+      communities to support food resource programs that provide students with
+      the meals they need to succeed.
+    </p>
+
     <div>
       <h2>Gallatin Valley Food Bank</h2>
 
@@ -214,8 +224,8 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Spring For Food 2020 - Bozeman, MT',
-  },
+    title: "Spring For Food 2020 - Bozeman, MT"
+  }
 };
 </script>
 
