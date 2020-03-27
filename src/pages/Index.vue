@@ -10,7 +10,7 @@
       </h1>
 
       <ul class="event-info">
-        <li><span>When: </span>April 18th, 2020</li>
+        <li><span>When: </span>(Postponed) April 18th, 2020</li>
         <li><span>Time: </span>10am - 4pm</li>
         <li>
           <span>Where: </span>Grocery stores around Bozeman and Belgrade,
