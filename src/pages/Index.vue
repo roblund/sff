@@ -4,7 +4,7 @@
       <h1>
         <g-image
           alt="Spring For Food"
-          src="~/assets/sff-logo.jpg"
+          src="~/assets/sff-logo.png"
           width="200"
         />
       </h1>
@@ -270,8 +270,11 @@ a {
 .logo-time {
   display: flex;
 }
-.event-info {
+h1 {
   margin-top: 60px;
+}
+.event-info {
+  margin-top: 30px;
   font-size: 1.4em;
 }
 .food-bank-logo {
