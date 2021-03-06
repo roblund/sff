@@ -4,7 +4,7 @@
       <h1>
         <g-image
           alt="Spring For Food"
-          src="~/assets/sff-logo.png"
+          src="~/images/sff-logo.png"
           width="200"
         />
       </h1>
@@ -34,10 +34,7 @@
     </div>
 
     <div>
-      <g-image
-        alt="Chart showing donations by month"
-        src="~/assets/piechart-2019.jpg"
-      />
+      <g-image alt="Photo showing filled bins" src="~/images/food-bins.jpg" />
     </div>
 
     <h2>Help us combat hunger in the Gallatin Valley:</h2>
@@ -76,8 +73,7 @@
     </p>
 
     <p>
-      To learn more about Childhood Hunger Awareness week and the fight to end
-      food insecurity for Children in Montana, click
+      To learn more about Childhood Hunger in Montana, click
       <a href="http://serve.mt.gov/ServeMT/fight-childhood-hunger">HERE</a>.
     </p>
 
@@ -122,7 +118,7 @@
 
       <p>
         To volunteer with Spring for Food click
-        <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=1458"
+        <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=3925"
           >HERE</a
         >
       </p>
@@ -138,6 +134,19 @@
         >
         secure website.
       </p>
+    </div>
+
+    <div class="volunteers__images">
+      <g-image
+        class="volunteers__image"
+        src="~/images/volunteers1.jpg"
+        alt="Photo of volunteers"
+      />
+      <g-image
+        class="volunteers__image"
+        src="~/images/volunteers2.jpg"
+        alt="Photo of volunteers 2"
+      />
     </div>
 
     <h2>Childhood Hunger Awareness Week</h2>
@@ -233,14 +242,14 @@
       <div class="food-bank-logo">
         <a href="http://www.gallatinvalleyfoodbank.org"
           ><g-image
-            src="~/assets/food-bank-logo.png"
+            src="~/images/food-bank-logo.png"
             alt="Gallatin Valley Food Bank"
           />
         </a>
       </div>
     </div>
 
-    <div class="">
+    <div>
       <h2>Principal Sponsors</h2>
       <p>
         The event is brought to you by the generous support of
@@ -252,13 +261,26 @@
         >.
       </p>
     </div>
+
+    <div class="volunteers__images">
+      <g-image
+        class="volunteers__image"
+        src="~/images/volunteers3.jpg"
+        alt="Photo of volunteers"
+      />
+      <g-image
+        class="volunteers__image"
+        src="~/images/food-bins2.jpg"
+        alt="Photo of volunteers 2"
+      />
+    </div>
   </Layout>
 </template>
 
 <script>
 export default {
   metaInfo: {
-    title: "Spring For Food 2020 - Bozeman, MT"
+    title: "Spring For Food 2021 - Bozeman, MT"
   }
 };
 </script>
@@ -276,6 +298,13 @@ h1 {
 .event-info {
   margin-top: 30px;
   font-size: 1.4em;
+}
+.volunteers__images {
+  display: flex;
+  justify-content: space-between;
+}
+.volunteers__image {
+  width: 49%;
 }
 .food-bank-logo {
   text-align: center;
