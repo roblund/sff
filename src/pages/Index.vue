@@ -12,7 +12,7 @@
       <ul class="event-info">
         <li><span>What: </span>A Spring Food Drive</li>
         <li><span>When: </span>April 10th, 2021</li>
-        <li><span>Time: </span>10:00 AM - 2:00 PM</li>
+        <li><span>Time: </span>10:00 AM - 3:00 PM</li>
         <li>
           <span>Where: </span>Grocery stores around Bozeman and Belgrade,
           Montana
