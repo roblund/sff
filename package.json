@@ -8,7 +8,7 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "graphql-playground-html": ">=1.6.22",
+    "graphql-playground-html": ">=1.6.29",
     "gridsome": "^0.7.23"
   }
 }
