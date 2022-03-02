@@ -10,5 +10,10 @@
   "dependencies": {
     "graphql-playground-html": ">=1.6.29",
     "gridsome": "^0.7.23"
+  },
+  "overrides": {
+    "gridsome": {
+      "sharp": "0.29.3"
+    }
   }
 }

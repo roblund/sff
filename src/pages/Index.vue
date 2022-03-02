@@ -11,7 +11,7 @@
 
       <ul class="event-info">
         <li><span>What: </span>A Spring Food Drive</li>
-        <li><span>When: </span>April 10th, 2021</li>
+        <li><span>When: </span>April 9th, 2022</li>
         <li><span>Time: </span>10:00 AM - 3:00 PM</li>
         <li>
           <span>Where: </span>Grocery stores around Bozeman and Belgrade,
@@ -26,7 +26,7 @@
         </li>
         <li>
           Volunteer
-          <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=3925"
+          <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=5810"
             >Here</a
           >
         </li>
@@ -46,11 +46,7 @@
     </p>
     <p>
       The Spring for Food drive is an opportunity to support a sustainable
-      supply of food during a time when donations are less frequent. In
-      addition, with the onset of COVID-19 last March, the Food Bank halted all
-      food drive efforts and did not begin taking individual donations until
-      October of 2020 (due to safety concerns) This significantly impacted their
-      food supply.
+      supply of food during a time when donations are less frequent.
     </p>
 
     <h2>How can you help?</h2>
@@ -67,7 +63,7 @@
       This year, we’re setting up central donation points at participating
       supermarkets in Bozeman and Belgrade so that people can donate as they’re
       shopping. To volunteer click
-      <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=3925">
+      <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=5810">
         HERE
       </a>
     </p>
@@ -118,7 +114,7 @@
 
       <p>
         To volunteer with Spring for Food click
-        <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=3925"
+        <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=5810"
           >HERE</a
         >
       </p>
@@ -204,38 +200,32 @@
         <h3>Impact:</h3>
         <ul>
           <li>
-            During the 2019-2020 fiscal year Gallatin Valley Food Bank
-            distributed 1,904,499 pounds of food.
+            During the 2020-2021 fiscal year Gallatin Valley Food Bank
+            distributed 1,834,867 pounds of food.
           </li>
           <li>
-            Gallatin Valley Food Bank serves an average 1,160 households
-            (roughly 3,000 individuals) every month by providing groceries at
-            our Bozeman location and our satellite service in Belgrade.
+            Gallatin Valley Food Bank serves an average of 983 households every
+            month by providing groceries at our Bozeman location and our
+            satellite service in Belgrade.
           </li>
           <li>
-            On average, 7,246 pounds (3.6 tons) of food is distributed to
+            On average, 7,443 pounds (3.6 tons) of food is distributed to
             families every day.
           </li>
           <li>
-            15% of households are single-parent families, 29% of households have
-            at least one child, and 30% are under 18.
+            Gallatin Valley Food Bank delivered 908 food boxes to people's
+            homes.
           </li>
           <li>
-            Out of that total, 121,265 pounds of food went to other area
-            nonprofits, the Fork and Spoon, CSFP and KidsPack. This took an
-            extraordinary effort by hundreds of volunteers and dedicated staff.
-          </li>
-          <li>
-            Volunteers are vital to fighting hunger. While volunteering has
-            looked different during COVID-19, volunteers are still the backbone
-            of our efforts. Volunteers contribute tens of thousands of hours to
-            help alleviate hunger in the Gallatin Valley.
+            Volunteers are vital to fighting hunger. Volunteers contribute tens
+            of thousands of hours to help alleviate hunger in the Gallatin
+            Valley.
           </li>
         </ul>
 
         <p>
           Thank you for contributing your time, energy, and donations to Spring
-          for Food 2021!
+          for Food 2022!
         </p>
       </div>
 
@@ -280,7 +270,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Spring For Food 2021 - Bozeman, MT"
+    title: "Spring For Food 2022 - Bozeman, MT"
   }
 };
 </script>
