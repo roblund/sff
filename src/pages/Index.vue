@@ -52,7 +52,7 @@
     <h2>How can you help?</h2>
     <p>
       It’s easy to get involved. Invite your family and friends to join you on
-      April 10th to collect food at one of the participating grocery stores in
+      April 9th to collect food at one of the participating grocery stores in
       our area. Your contribution (food, funds, or time) will support the
       distribution of groceries to area families, in addition to supplementing
       the KidsPack and KidsPantry programs, which provide weekend nutritional
