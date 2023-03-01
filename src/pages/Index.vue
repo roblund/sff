@@ -11,7 +11,7 @@
 
       <ul class="event-info">
         <li><span>What: </span>A Spring Food Drive</li>
-        <li><span>When: </span>April 9th, 2022</li>
+        <li><span>When: </span>April 8th, 2023</li>
         <li><span>Time: </span>10:00 AM - 3:00 PM</li>
         <li>
           <span>Where: </span>Grocery stores around Bozeman and Belgrade,
@@ -52,7 +52,7 @@
     <h2>How can you help?</h2>
     <p>
       It’s easy to get involved. Invite your family and friends to join you on
-      April 9th to collect food at one of the participating grocery stores in
+      April 8th to collect food at one of the participating grocery stores in
       our area. Your contribution (food, funds, or time) will support the
       distribution of groceries to area families, in addition to supplementing
       the KidsPack and KidsPantry programs, which provide weekend nutritional
@@ -225,7 +225,7 @@
 
         <p>
           Thank you for contributing your time, energy, and donations to Spring
-          for Food 2022!
+          for Food 2023!
         </p>
       </div>
 
@@ -270,7 +270,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Spring For Food 2022 - Bozeman, MT"
+    title: "Spring For Food 2023 - Bozeman, MT"
   }
 };
 </script>
