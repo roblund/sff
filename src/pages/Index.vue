@@ -18,7 +18,8 @@
           Montana
         </li>
         <li>
-          <span>Goal: </span>15,000 lbs. of food donations to benefit the
+          <span>Goal: </span>15,000 lbs. of food donations to benefit
+          <a href="https://thehrdc.org">HRDC's</a>
           <a href="http://www.gallatinvalleyfoodbank.org"
             >Gallatin Valley Food Bank</a
           >
@@ -40,9 +41,9 @@
     <h2>Help us combat hunger in the Gallatin Valley:</h2>
     <p>
       Community food and fund drives provide nutritious food and vital operating
-      funds for Gallatin Valley Food Bank while raising awareness of hunger
-      issues in our community. Food drives provide some of the healthiest and
-      highest-quality food the Gallatin Valley Food Bank receives.
+      funds for HRDC's Gallatin Valley Food Bank while raising awareness of
+      hunger issues in our community. Food drives provide some of the healthiest
+      and highest-quality food Gallatin Valley Food Bank receives.
     </p>
     <p>
       The Spring for Food drive is an opportunity to support a sustainable
@@ -144,28 +145,6 @@
         alt="Photo of volunteers 2"
       />
     </div>
-
-    <h2>Childhood Hunger Awareness Week</h2>
-    <p>
-      Did you know that according to Feeding America, the outbreak of COVID has
-      increased child food insecurity in Montana by 36%, and about 30% of all
-      individuals currently receiving food from the food bank are children?
-    </p>
-    <p>
-      The upcoming annual Spring Food drive event takes place in conjunction
-      with Fight Childhood Hunger Week, <strong>April 5th – 9th</strong>.
-      Raising awareness of the issue of childhood hunger while helping schools
-      and communities to support food resource programs that provide students
-      with the meals they need to succeed.
-    </p>
-    <p>
-      Join by donating during Spring for Food or participate in any number of
-      fun activities taking place that week visit our Facebook page for the most
-      current information:
-      <a href="https://www.facebook.com/GallatinValleyFoodBank"
-        >https://www.facebook.com/GallatinValleyFoodBank</a
-      >
-    </p>
 
     <div>
       <h2>Gallatin Valley Food Bank</h2>
