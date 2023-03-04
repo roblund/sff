@@ -69,10 +69,20 @@
       </a>
     </p>
 
+    <h3>How to Sign Up to Volunteer:</h3>
     <p>
-      To learn more about Childhood Hunger in Montana, click
-      <a href="http://serve.mt.gov/ServeMT/fight-childhood-hunger">HERE</a>.
+      <ul>
+        <li>
+          The first step is to set up a profile on our scheduling site, Galaxy Digital, at
+          <a href="https://hrdc9.galaxydigital.com/need/?s=1&need_init_id=5810">
+            Volunteer - The HRDC
+          </a>
+        </li>
+        <li>Search for the “Spring For Food” needs. Once you sign up you should receive a confirmation email.</li>
+        <li><a href="https://galaxydigital.freshdesk.com/support/solutions/36000096780">Questions about using our scheduling site</a></li>
+      </ul>
     </p>
+
 
     <h3 class="facebook-link">
       <a href="http://www.facebook.com/GallatinValleyFoodBank"
