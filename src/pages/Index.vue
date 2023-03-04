@@ -19,8 +19,7 @@
         </li>
         <li>
           <span>Goal: </span>15,000 lbs. of food donations to benefit
-          <a href="https://thehrdc.org">HRDC's</a>
-          <a href="http://www.gallatinvalleyfoodbank.org"
+          <a href="https://thehrdc.org">HRDC</a>'s <a href="http://www.gallatinvalleyfoodbank.org"
             >Gallatin Valley Food Bank</a
           >
           and childhood nutrition programs
