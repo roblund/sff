@@ -37,7 +37,7 @@
       <g-image alt="Photo showing filled bins" src="~/images/food-bins.jpg" />
     </div>
 
-    <h2>Help us combat hunger in the Gallatin Valley:</h2>
+    <h2>Help us make sure no one in the Gallatin Valley goes to bed hungry.</h2>
     <p>
       Community food and fund drives provide nutritious food and vital operating
       funds for HRDC's Gallatin Valley Food Bank while raising awareness of
@@ -187,28 +187,11 @@
 
         <h3>Impact:</h3>
         <ul>
-          <li>
-            During the 2020-2021 fiscal year Gallatin Valley Food Bank
-            distributed 1,834,867 pounds of food.
-          </li>
-          <li>
-            Gallatin Valley Food Bank serves an average of 983 households every
-            month by providing groceries at our Bozeman location and our
-            satellite service in Belgrade.
-          </li>
-          <li>
-            On average, 7,443 pounds (3.6 tons) of food is distributed to
-            families every day.
-          </li>
-          <li>
-            Gallatin Valley Food Bank delivered 908 food boxes to people's
-            homes.
-          </li>
-          <li>
-            Volunteers are vital to fighting hunger. Volunteers contribute tens
-            of thousands of hours to help alleviate hunger in the Gallatin
-            Valley.
-          </li>
+          <li>During the 2021-2022 fiscal year Gallatin Valley Food Bank distributed 1,519,283 pounds of food.</li>
+          <li>Gallatin Valley Food Bank serves an average of 1,141 households every month by providing groceries at our Bozeman location and our satellite service in Belgrade.</li>
+          <li>On average, 6,176 founds of food is distributed to families every day.</li>
+          <li>Gallatin Valley Food Bank delivered 908 food boxes to people's homes.</li>
+          <li>Volunteers are vital to fighting hunger. Volunteers contribute tens of thousands of hours to help alleviate hunger in the Gallatin Valley.</li>
         </ul>
 
         <p>
