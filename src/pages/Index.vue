@@ -11,7 +11,7 @@
 
       <ul class="event-info">
         <li><span>What: </span>A Spring Food Drive</li>
-        <li><span>When: </span>April 8th, 2023</li>
+        <li><span>When: </span>April 6th, 2024</li>
         <li><span>Time: </span>10:00 AM - 3:00 PM</li>
         <li>
           <span>Where: </span>Grocery stores around Bozeman and Belgrade,
@@ -52,7 +52,7 @@
     <h2>How can you help?</h2>
     <p>
       It’s easy to get involved. Invite your family and friends to join you on
-      April 8th to collect food at one of the participating grocery stores in
+      April 6th to collect food at one of the participating grocery stores in
       our area. Your contribution (food, funds, or time) will support the
       distribution of groceries to area families, in addition to supplementing
       the KidsPack and KidsPantry programs, which provide weekend nutritional
@@ -187,16 +187,16 @@
 
         <h3>Impact:</h3>
         <ul>
-          <li>During the 2021-2022 fiscal year Gallatin Valley Food Bank distributed 1,519,283 pounds of food.</li>
-          <li>Gallatin Valley Food Bank serves an average of 1,141 households every month by providing groceries at our Bozeman location and our satellite service in Belgrade.</li>
-          <li>On average, 6,176 founds of food is distributed to families every day.</li>
-          <li>Gallatin Valley Food Bank delivered 908 food boxes to people's homes.</li>
-          <li>Volunteers are vital to fighting hunger. Volunteers contribute tens of thousands of hours to help alleviate hunger in the Gallatin Valley.</li>
+          <li>In 2022-2023 fiscal year, the Gallatin Valley Food Bank serves an average of 1,461 households (roughly 3,725 individuals) a month through the Emergency Food Box Program alone at our Bozeman location and our satellite service in Belgrade.</li>
+          <li>In the 2022-2023 fiscal year the Gallatin Valley Food Bank and our satellite site in Belgrade distributed 17,532 food boxes.</li>
+          <li>On average, 6,669 pounds (3.33 tons) of food are distributed to families every day.</li>
+          <li>During the 2022-2023 fiscal year end the Gallatin Valley Food Bank distributed 1,667,276 pounds of food.  Out of the total, 174,850 pounds of food went to other area nonprofits, the Fork &amp; Spoon, CSFP, and KidsPack. All this took an extraordinary effort by hundreds of volunteers and dedicated staff.</li>
+          <li>In 2022-23, the food rescue program collected 905,977 pounds of food from area grocery stores.</li>
         </ul>
 
         <p>
           Thank you for contributing your time, energy, and donations to Spring
-          for Food 2023!
+          for Food 2024!
         </p>
       </div>
 
@@ -241,7 +241,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Spring For Food 2023 - Bozeman, MT"
+    title: "Spring For Food 2024 - Bozeman, MT"
   }
 };
 </script>
