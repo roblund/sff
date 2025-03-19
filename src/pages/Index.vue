@@ -14,14 +14,15 @@
         <li><span>When: </span>April 5th, 2025</li>
         <li><span>Time: </span>10:00 AM - 3:00 PM</li>
         <li>
-          <span>Where: </span>Grocery stores around Bozeman and Belgrade,
-          Montana
+          <span>Where: </span>Grocery stores around Bozeman, Belgrade, 
+          Three Forks and Manhattan Montana
         </li>
         <li>
           <span>Goal: </span>15,000 lbs. of food donations to benefit
           <a href="https://thehrdc.org">HRDC</a>'s <a href="http://www.gallatinvalleyfoodbank.org"
             >Gallatin Valley Food Bank</a
-          >
+          >, <a href="https://thehrdc.org/food-nutrition/headwaters-food-bank/">
+            Headwaters Area Food Bank</a> 
           and childhood nutrition programs
         </li>
         <li>
