@@ -14,9 +14,9 @@
         <li><span>When: </span>April 5th, 2025</li>
         <li><span>Time: </span>10:00 AM - 3:00 PM</li>
         <li>
-          <span>Where: </span>Grocery stores around Bozeman, Belgrade, 
-          Three Forks and Manhattan Montana
+          <span>Where: </span>Grocery stores around Bozeman, Belgrade
         </li>
+        <li>Three Forks Market and L &amp; F Market in Manhattan 10:00 AM - 12:00 PM</li>
         <li>
           <span>Goal: </span>15,000 lbs. of food donations to benefit
           <a href="https://thehrdc.org">HRDC</a>'s <a href="http://www.gallatinvalleyfoodbank.org"
