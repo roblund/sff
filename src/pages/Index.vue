@@ -161,44 +161,22 @@
 
       <div>
         <p>
-          <strong>GVFB Mission:</strong> To improve food security throughout
-          Southwest Montana. GVFB is one of HRDC’s Food and Nutrition Programs
-          working to ensure no one goes to bed hungry.
+          The Gallatin Valley Food Bank (GVFB) is a program of <a href="https://thehrdc.org/">HRDC</a>. GVFB is one of HRDC’s Food &amp; Nutrition programs working to improve food security throughout Southwest Montana.
         </p>
         <p>
-          Other HRDC Food and Nutrition Programs include
-          <a href="https://gallatinvalleyfoodbank.org/get-help/summer-meals/"
-            >Summer Lunch</a
-          >,
-          <a
-            href="https://gallatinvalleyfoodbank.org/2018/08/support-healthy-kidspack/"
-            >Healthy Kidspack</a
-          >,
-          <a
-            href="https://gallatinvalleyfoodbank.org/get-help/senior-nutrition/"
-            >Senior Groceries</a
-          >,
-          <a href="https://bigskyfoodbank.org/">Big Sky Community Food Bank</a>,
-          <a
-            href="https://thehrdc.org/how-we-help/food-nutrition/headwaters-food-bank/"
-            >Headwaters Area Food Bank</a
-          >, and
-          <a href="https://www.forkandspoonbozeman.org/">Fork & Spoon</a>
+          Other HRDC Food &amp; Nutrition programs include <a href="https://thehrdc.org/food-nutrition/headwaters-food-bank/">Headwaters Area Food Bank</a>, <a href="https://gallatinvalleyfoodbank.org/get-help/childhoodhungerinitiatives/">Healthy KidsPack</a>, <a href="https://gallatinvalleyfoodbank.org/get-help/senior-nutrition/">Senior Groceries</a>, <a href="https://bigskyfoodbank.org/">Big Sky Community Food Bank</a>, the <a href="https://www.forkandspoonbozeman.org/">Fork &amp; Spoon</a> pay-what-you-can restaurant, and <a href="https://gallatinvalleyfoodbank.org/get-help/summer-meals/">Summer Lunch</a>.
         </p>
 
         <h3>Impact:</h3>
+        <p>Last fiscal year (2023-2024), the Gallatin Valley Food Bank:
         <ul>
-          <li>In 2022-2023 fiscal year, the Gallatin Valley Food Bank serves an average of 1,461 households (roughly 3,725 individuals) a month through the Emergency Food Box Program alone at our Bozeman location and our satellite service in Belgrade.</li>
-          <li>In the 2022-2023 fiscal year the Gallatin Valley Food Bank and our satellite site in Belgrade distributed 17,532 food boxes.</li>
-          <li>On average, 6,669 pounds (3.33 tons) of food are distributed to families every day.</li>
-          <li>During the 2022-2023 fiscal year end the Gallatin Valley Food Bank distributed 1,667,276 pounds of food.  Out of the total, 174,850 pounds of food went to other area nonprofits, the Fork &amp; Spoon, CSFP, and KidsPack. All this took an extraordinary effort by hundreds of volunteers and dedicated staff.</li>
-          <li>In 2022-23, the food rescue program collected 905,977 pounds of food from area grocery stores.</li>
+          <li>Provided 19,897 food boxes at our Bozeman location and our satellite service in Belgrade, reaching 11,615 individuals in our community with emergency food assistance.</li>
+          <li>Distributed 1,720,251 total pounds of food for an average of 7,258 pounds (3.6 tons) of food per day. This took an extraordinary effort by hundreds of volunteers and our dedicated staff.</li>
+          <li>Rescued 932,316 pounds of food from local grocery stores, farms, and other businesses.</li>
+          <li>Distributed 22,652 weekly Healthy KidsPacks to school-age children, providing supplemental weekend food so kids arrive at school fed and ready to learn.</li>
         </ul>
 
-        <p>
-          Thank you for contributing your time, energy, and donations to Spring
-          for Food 2025!
-        </p>
+        <p>Thank you for contributing your time, energy, and donations to Spring for Food 2025!</p>
       </div>
 
       <div class="food-bank-logo">
@@ -209,6 +187,12 @@
           />
         </a>
       </div>
+      <div class="food-bank-logo">
+        <g-image
+          src="~/images/hrdc-logo.png"
+          alt="HRDC"
+        />
+      </div>
     </div>
 
     <div>
@@ -217,7 +201,6 @@
         The event is brought to you by the generous support of
         <a href="http://www.cardinaldistributing.com">Cardinal Distributing</a>,
         <a href="https://www.ourbank.com">First Security Bank</a>, and
-        <a href="http://www.kbzk.com">KBZK</a> in conjunction with the
         <a href="http://www.gallatinvalleyfoodbank.org"
           >Gallatin Valley Food Bank</a
         >.
@@ -269,6 +252,10 @@ h1 {
   width: 49%;
 }
 .food-bank-logo {
-  text-align: center;
+  text-align: center; 
+  margin-bottom: 20px;
+}
+.food-bank-logo img {
+  max-width: 400px;
 }
 </style>
